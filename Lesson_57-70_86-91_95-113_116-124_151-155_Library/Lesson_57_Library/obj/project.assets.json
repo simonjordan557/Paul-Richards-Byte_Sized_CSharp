@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_Library\\Lesson_57_Library\\Lesson_57_Library.csproj",
+      "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_151-155_Library\\Lesson_57_Library\\Lesson_57_Library.csproj",
       "projectName": "Lesson_57_Library",
-      "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_Library\\Lesson_57_Library\\Lesson_57_Library.csproj",
+      "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_151-155_Library\\Lesson_57_Library\\Lesson_57_Library.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_Library\\Lesson_57_Library\\obj\\",
+      "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Paul_Richards_C#_Programming_In_Byte-Sized_Lessons\\Lesson_57-70_86-91_95-113_116-124_151-155_Library\\Lesson_57_Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
